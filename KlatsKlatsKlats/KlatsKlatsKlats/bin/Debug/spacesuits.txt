@@ -1,0 +1,13 @@
+5 300 750 250; Axioma-Ultra; 1
+2 010 020 010; Dark-Matter; 2
+1 100 100 100; Buran-1; 3
+2 700 790 900; Trigger-Happy; 4
+1 900 400 600; Silver-Hawk-70; 5
+3 400 060 800; Ataraxia; 6
+2 400 000 150; Blubber; 7
+3 500 500 500; Warder; 8
+4 000 400 000; Backsword; 9
+4 600 600 600; Buran-5; 10
+3 800 480 120; Jock; 11
+5 100 050 600; Aggressor; 12
+3 900 900 950; Proton-K; 13

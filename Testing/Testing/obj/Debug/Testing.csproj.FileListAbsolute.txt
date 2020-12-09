@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\User\source\repos\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\User\source\repos\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.LoginForm.resources
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.CreateTestForm.resources
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.HereTheTestBegins.resources
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.MainForm.resources
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.Properties.Resources.resources
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.SaveTestForm.resources
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.TeachersListForm.resources
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.pdb
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.FinalresultTest.resources
+C:\Users\User\source\repos\Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache

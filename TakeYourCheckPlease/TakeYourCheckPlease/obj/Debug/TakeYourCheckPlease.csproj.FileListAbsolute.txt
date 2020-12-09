@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\bin\Debug\TakeYourCheckPlease.exe.config
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\bin\Debug\TakeYourCheckPlease.exe
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\bin\Debug\TakeYourCheckPlease.pdb
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\obj\Debug\TakeYourCheckPlease.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\obj\Debug\TakeYourCheckPlease.MainForm.resources
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\obj\Debug\TakeYourCheckPlease.Properties.Resources.resources
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\obj\Debug\TakeYourCheckPlease.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\obj\Debug\TakeYourCheckPlease.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\obj\Debug\TakeYourCheckPlease.exe
+C:\Users\User\source\repos\TakeYourCheckPlease\TakeYourCheckPlease\obj\Debug\TakeYourCheckPlease.pdb

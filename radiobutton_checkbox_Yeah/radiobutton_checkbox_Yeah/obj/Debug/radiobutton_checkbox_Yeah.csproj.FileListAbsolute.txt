@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\bin\Debug\radiobutton_checkbox_Yeah.exe.config
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\bin\Debug\radiobutton_checkbox_Yeah.exe
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\bin\Debug\radiobutton_checkbox_Yeah.pdb
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\obj\Debug\radiobutton_checkbox_Yeah.csprojAssemblyReference.cache
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\obj\Debug\radiobutton_checkbox_Yeah.Main_Form.resources
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\obj\Debug\radiobutton_checkbox_Yeah.Properties.Resources.resources
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\obj\Debug\radiobutton_checkbox_Yeah.csproj.GenerateResource.cache
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\obj\Debug\radiobutton_checkbox_Yeah.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\obj\Debug\radiobutton_checkbox_Yeah.exe
+C:\Users\User\source\repos\radiobutton_checkbox_Yeah\radiobutton_checkbox_Yeah\obj\Debug\radiobutton_checkbox_Yeah.pdb

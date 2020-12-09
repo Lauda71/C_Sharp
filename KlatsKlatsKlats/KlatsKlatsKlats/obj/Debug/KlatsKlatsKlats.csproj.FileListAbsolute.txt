@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\bin\Debug\KlatsKlatsKlats.exe.config
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\bin\Debug\KlatsKlatsKlats.exe
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\bin\Debug\KlatsKlatsKlats.pdb
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\obj\Debug\KlatsKlatsKlats.csprojAssemblyReference.cache
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\obj\Debug\KlatsKlatsKlats.Properties.Resources.resources
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\obj\Debug\KlatsKlatsKlats.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\obj\Debug\KlatsKlatsKlats.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\obj\Debug\KlatsKlatsKlats.exe
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\obj\Debug\KlatsKlatsKlats.pdb
+C:\Users\User\source\repos\KlatsKlatsKlats\KlatsKlatsKlats\obj\Debug\KlatsKlatsKlats.Main_Form.resources

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Poiskkk\Poiskkk\bin\Debug\Poiskkk.exe.config
+C:\Users\User\source\repos\Poiskkk\Poiskkk\bin\Debug\Poiskkk.exe
+C:\Users\User\source\repos\Poiskkk\Poiskkk\bin\Debug\Poiskkk.pdb
+C:\Users\User\source\repos\Poiskkk\Poiskkk\obj\Debug\Poiskkk.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Poiskkk\Poiskkk\obj\Debug\Poiskkk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Poiskkk\Poiskkk\obj\Debug\Poiskkk.exe
+C:\Users\User\source\repos\Poiskkk\Poiskkk\obj\Debug\Poiskkk.pdb

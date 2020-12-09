@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\osaGO\osaGO\bin\Debug\osaGO.exe.config
+C:\Users\User\source\repos\osaGO\osaGO\bin\Debug\osaGO.exe
+C:\Users\User\source\repos\osaGO\osaGO\bin\Debug\osaGO.pdb
+C:\Users\User\source\repos\osaGO\osaGO\obj\Debug\osaGO.csprojAssemblyReference.cache
+C:\Users\User\source\repos\osaGO\osaGO\obj\Debug\osaGO.Properties.Resources.resources
+C:\Users\User\source\repos\osaGO\osaGO\obj\Debug\osaGO.csproj.GenerateResource.cache
+C:\Users\User\source\repos\osaGO\osaGO\obj\Debug\osaGO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\osaGO\osaGO\obj\Debug\osaGO.exe
+C:\Users\User\source\repos\osaGO\osaGO\obj\Debug\osaGO.pdb
+C:\Users\User\source\repos\osaGO\osaGO\obj\Debug\osaGO.Main_Form.resources

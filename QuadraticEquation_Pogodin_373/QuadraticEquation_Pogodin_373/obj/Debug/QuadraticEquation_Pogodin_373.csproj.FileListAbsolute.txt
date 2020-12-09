@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\QuadraticEquation_Pogodin_373\QuadraticEquation_Pogodin_373\bin\Debug\QuadraticEquation_Pogodin_373.exe.config
+C:\Users\User\source\repos\QuadraticEquation_Pogodin_373\QuadraticEquation_Pogodin_373\bin\Debug\QuadraticEquation_Pogodin_373.exe
+C:\Users\User\source\repos\QuadraticEquation_Pogodin_373\QuadraticEquation_Pogodin_373\bin\Debug\QuadraticEquation_Pogodin_373.pdb
+C:\Users\User\source\repos\QuadraticEquation_Pogodin_373\QuadraticEquation_Pogodin_373\obj\Debug\QuadraticEquation_Pogodin_373.csprojAssemblyReference.cache
+C:\Users\User\source\repos\QuadraticEquation_Pogodin_373\QuadraticEquation_Pogodin_373\obj\Debug\QuadraticEquation_Pogodin_373.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuadraticEquation_Pogodin_373\QuadraticEquation_Pogodin_373\obj\Debug\QuadraticEquation_Pogodin_373.exe
+C:\Users\User\source\repos\QuadraticEquation_Pogodin_373\QuadraticEquation_Pogodin_373\obj\Debug\QuadraticEquation_Pogodin_373.pdb

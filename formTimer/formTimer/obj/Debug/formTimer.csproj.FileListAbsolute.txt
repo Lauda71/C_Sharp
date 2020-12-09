@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\formTimer\formTimer\bin\Debug\formTimer.exe.config
+C:\Users\User\source\repos\formTimer\formTimer\bin\Debug\formTimer.exe
+C:\Users\User\source\repos\formTimer\formTimer\bin\Debug\formTimer.pdb
+C:\Users\User\source\repos\formTimer\formTimer\obj\Debug\formTimer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\formTimer\formTimer\obj\Debug\formTimer.mainForm.resources
+C:\Users\User\source\repos\formTimer\formTimer\obj\Debug\formTimer.Properties.Resources.resources
+C:\Users\User\source\repos\formTimer\formTimer\obj\Debug\formTimer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\formTimer\formTimer\obj\Debug\formTimer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\formTimer\formTimer\obj\Debug\formTimer.exe
+C:\Users\User\source\repos\formTimer\formTimer\obj\Debug\formTimer.pdb

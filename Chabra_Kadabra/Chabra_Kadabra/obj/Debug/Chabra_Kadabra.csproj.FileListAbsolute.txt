@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Chabra_Kadabra\Chabra_Kadabra\obj\Debug\Chabra_Kadabra.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Chabra_Kadabra\Chabra_Kadabra\obj\Debug\Chabra_Kadabra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chabra_Kadabra\Chabra_Kadabra\bin\Debug\Chabra_Kadabra.exe.config
+C:\Users\User\source\repos\Chabra_Kadabra\Chabra_Kadabra\bin\Debug\Chabra_Kadabra.exe
+C:\Users\User\source\repos\Chabra_Kadabra\Chabra_Kadabra\bin\Debug\Chabra_Kadabra.pdb
+C:\Users\User\source\repos\Chabra_Kadabra\Chabra_Kadabra\obj\Debug\Chabra_Kadabra.exe
+C:\Users\User\source\repos\Chabra_Kadabra\Chabra_Kadabra\obj\Debug\Chabra_Kadabra.pdb
